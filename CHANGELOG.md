@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+* [PR-83](https://github.com/itk-enter/enter/pull/83)
+  Grouped the conflation classes into Data, Spatial, Pipeline and Io
+* [PR-82](https://github.com/itk-enter/enter/pull/82)
+  Listed the merged data sets on /sources, in sources.json and on the map
 * [PR-81](https://github.com/itk-enter/enter/pull/81)
   Added the public toilet merge and MajorityWins, an optional conflict-resolution approach
 * [PR-80](https://github.com/itk-enter/enter/pull/80)
